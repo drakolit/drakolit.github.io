@@ -1,0 +1,35 @@
+# Site settings
+title: Питон и КИЛИ
+
+baseurl: ""
+url: https://pykili.github.io
+git_address: https://github.com/pykili/pykili.github.io
+git_edit_address: https://github.com/pykili/pykili.github.io/blob/master
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - docker-compose.yml
+
+timezone: Europe/Moscow
+defaults:
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+collections:
+  docs:
+    permalink: /:path
+    output: true
