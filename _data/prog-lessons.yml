@@ -1,0 +1,427 @@
+- name: Git и введение в Python
+  link: /prog/01-git_and_python_intro
+  when:
+    group1: 8 окт 2019
+    group2: 7 окт 2019
+    group3: 8 окт 2019
+    group4: 11 окт 2019
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: true
+  staff:
+
+# =========================================================================== #
+
+- name: Условия и операторы сравнения
+  link: /prog/02-if-and-comparison-ops
+  when:
+    group1:
+    group2: 8 окт 2019
+    group3: 11 окт 2019
+    group4: 15 окт 2019
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom: https://classroom.github.com/a/aAHD61KE
+      deadline: 14 окт 2019 23:55
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: true
+  staff:
+    common:
+    group1:
+    group2: '[слайды](/content/slides/groups/2/seminar_2.pdf)'
+    group3:
+    group4:
+
+# =========================================================================== #
+
+- name: Циклы и индексы
+  link: /prog/03-loops
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Списки
+  link: /prog/04-lists
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Файлы
+  link: /prog/05-files
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Запись файлов
+  link: /prog/06-write-files
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Функции. Часть 1
+  link: /prog/07-functions
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Функции. Часть 2
+  link: /prog/10-functions-two
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Импорт и функции
+  link: /prog/12-functions-and-import
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Словари
+  link: /prog/13-dicts
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Вложенные словари
+  link: /prog/14-nested-dict
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Поиск с регулярными выражениями
+  link: /prog/16-regexp
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Нахождение строк, соответствующих шаблону
+  link: /prog/17-regexp-group
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Замены с помощью регулярных выражений
+  link: /prog/18-regexp-sub
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Разбиения с регулярными выражениями
+  link: /prog/19-regexp-findall
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Работа с файлами и папками
+  link: /prog/22-file-manipulation
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
+
+# =========================================================================== #
+
+- name: Файловое дерево и форматирование строк
+  link: /prog/23-tree-and-format
+  when:
+    group1:
+    group2:
+    group3:
+    group4:
+  hw:
+    group1:
+      classroom:
+      deadline:
+    group2:
+      classroom:
+      deadline:
+    group3:
+      classroom:
+      deadline:
+    group4:
+      classroom:
+      deadline:
+  show: false
+  staff:
